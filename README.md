@@ -1,4 +1,4 @@
-# leterminalnordtheme
+# L.E. Terminal Nord theme
 A Nord theme for [L.E. Terminal](https://github.com/CacahueteSansSel/leterminal), on the Numworks calculator  
 Currently compatible with LET 1.5.0
 
