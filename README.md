@@ -4,4 +4,5 @@ Currently compatible with LET 1.5.0
 
 Replace palette.h with the new one
 
-![image not loaded](screenshot.jpg "yay")
+![image not loaded](screenshot.png "yay")
+![image not loaded](screenshot.jpg "waw")
